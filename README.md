@@ -1,6 +1,7 @@
 # CVE-2019-16394
 
 A simple POC python script of CVE-2019-16394
+Script is adjusted for a french website, you may need to modify it if the website language is different.
 
 ## Install
 
